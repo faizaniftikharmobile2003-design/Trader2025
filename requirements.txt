@@ -1,0 +1,7 @@
+streamlit
+ccxt
+pandas
+plotly
+pandas_ta
+requests
+beautifulsoup4
